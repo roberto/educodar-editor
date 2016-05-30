@@ -1,5 +1,11 @@
 {
-  "name"    : "edicodar",
-  "version" : "0.1.0",
-  "main"    : "main.js"
+  "name": "edicodar",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "codemirror": "^5.15.2"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
 }
